@@ -253,7 +253,7 @@ font-family:'JetBrains Mono';
         <span class="tag">Cybersécurité</span>
         <span class="tag">Active Directory</span>
       </div>
-
+       </a>
       rsyslog-exam-doc.pdf
         📄 Télécharger la documentation Rsyslog
       </a>
@@ -284,7 +284,7 @@ font-family:'JetBrains Mono';
         <span class="tag">Ubuntu Server</span>
         <span class="tag">Infrastructure</span>
       </div>
-
+       </a>
       documentation-fog-project.pdf
         📄 Télécharger la documentation FOG
       </a>
